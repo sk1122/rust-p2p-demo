@@ -1,0 +1,18 @@
+{
+  "trusted_client": "",
+  "address": "http://0.0.0.0:9090",
+  "last_synced": {
+    "secs_since_epoch": 1675803213,
+    "nanos_since_epoch": 96830287
+  },
+  "peers": [
+    {
+      "address": "http://0.0.0.0:9090",
+      "connected": true,
+      "last_connected": {
+        "secs_since_epoch": 1675803213,
+        "nanos_since_epoch": 96835257
+      }
+    }
+  ]
+}

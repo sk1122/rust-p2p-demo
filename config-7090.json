@@ -1,0 +1,34 @@
+{
+  "trusted_client": "http://localhost:8090",
+  "address": "",
+  "last_synced": {
+    "secs_since_epoch": 1675803260,
+    "nanos_since_epoch": 321890399
+  },
+  "peers": [
+    {
+      "address": "http://0.0.0.0:9090",
+      "connected": true,
+      "last_connected": {
+        "secs_since_epoch": 1675803213,
+        "nanos_since_epoch": 96835257
+      }
+    },
+    {
+      "address": "http://0.0.0.0:8090",
+      "connected": true,
+      "last_connected": {
+        "secs_since_epoch": 1675803221,
+        "nanos_since_epoch": 218789256
+      }
+    },
+    {
+      "address": "http://0.0.0.0:7090",
+      "connected": true,
+      "last_connected": {
+        "secs_since_epoch": 1675803260,
+        "nanos_since_epoch": 321888115
+      }
+    }
+  ]
+}
