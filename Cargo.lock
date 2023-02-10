@@ -1026,6 +1026,7 @@ version = "0.1.0"
 dependencies = [
  "actix-web",
  "derive_more",
+ "rand",
  "reqwest",
  "serde",
  "serde_json",
