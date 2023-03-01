@@ -1,0 +1,11 @@
+{
+  "trusted_client": "",
+  "port": 6090,
+  "address": "http://0.0.0.0:6090",
+  "last_synced": {
+    "secs_since_epoch": 1676058694,
+    "nanos_since_epoch": 392781523
+  },
+  "peers": [],
+  "peer_addresses": []
+}

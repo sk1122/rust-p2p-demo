@@ -1,26 +1,31 @@
 {
-  "trusted_client": "http://localhost:9090",
-  "address": "",
+  "trusted_client": "",
+  "port": 8090,
+  "address": "http://0.0.0.0:8090",
   "last_synced": {
-    "secs_since_epoch": 1675803221,
-    "nanos_since_epoch": 218791169
+    "secs_since_epoch": 1676058626,
+    "nanos_since_epoch": 970267873
   },
   "peers": [
     {
       "address": "http://0.0.0.0:9090",
       "connected": true,
       "last_connected": {
-        "secs_since_epoch": 1675803213,
-        "nanos_since_epoch": 96835257
+        "secs_since_epoch": 1676058634,
+        "nanos_since_epoch": 283184028
       }
     },
     {
-      "address": "http://0.0.0.0:8090",
+      "address": "http://0.0.0.0:7090",
       "connected": true,
       "last_connected": {
-        "secs_since_epoch": 1675803221,
-        "nanos_since_epoch": 218789256
+        "secs_since_epoch": 1676058658,
+        "nanos_since_epoch": 534565375
       }
     }
+  ],
+  "peer_addresses": [
+    "http://0.0.0.0:9090",
+    "http://0.0.0.0:7090"
   ]
 }
